@@ -43,3 +43,6 @@ packages/
 /*.dll
 /*.pdb
 /*.XML
+
+#Descriptor Xml files for generating Descriptors.cs
+/src/EdFi.SampleDataGenerator.Core/Entities/Schema
